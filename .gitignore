@@ -1,0 +1,21 @@
+# Тимчасові файли ОС
+.DS_Store
+Thumbs.db
+
+# IDE та редактори
+.vscode/
+.idea/
+
+# .NET
+bin/
+obj/
+*.user
+*.suo
+
+# Локальні налаштування
+.env
+appsettings.Development.json
+
+# Тимчасові файли
+*.tmp
+*.temp
